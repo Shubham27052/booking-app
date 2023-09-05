@@ -7,23 +7,23 @@ A webapp, inspired by Booking.com that aloows you to search hotels, book rooms a
 - Data stored in MongoDB
 
 
-Project Features:
+<b>Project Features</b>:
 
-1. HomePage
+<b>1. HomePage</b>
 - Design inspired by Booking.com
 - All the Hotel data is retrived from mongo
 
 https://github.com/Shubham27052/booking-app/assets/68993711/d8f1e7d2-94de-4eb2-9832-3a1722e39cd7
 
 
-2. Search Hotel
+<b>2. Search Hotel</b>
 - User can search by City, Available dates and number of people.
 - On the listings page, user can filter based on Min/Max price, dates, city.
   
 https://github.com/Shubham27052/booking-app/assets/68993711/8db5cd10-6b8c-4e04-a81f-5da6b6c42673
 
 
-3. Reserve Rooms
+<b>3. Reserve Rooms</b>
 - User can choose book rooms in a particular hotel
 - The booked rooms wont be available to other users
 
