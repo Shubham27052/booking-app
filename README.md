@@ -12,18 +12,22 @@ Project Features:
 1. HomePage
 - Design inspired by Booking.com
 - All the Hotel data is retrived from mongo
+
 https://github.com/Shubham27052/booking-app/assets/68993711/d8f1e7d2-94de-4eb2-9832-3a1722e39cd7
 
 
 2. Search Hotel
 - User can search by City, Available dates and number of people.
 - On the listings page, user can filter based on Min/Max price, dates, city.
+  
 https://github.com/Shubham27052/booking-app/assets/68993711/8db5cd10-6b8c-4e04-a81f-5da6b6c42673
 
 
 3. Reserve Rooms
 - User can choose book rooms in a particular hotel
 - The booked rooms wont be available to other users
-- 
-Uploading Third.mp4…
+
+https://github.com/Shubham27052/booking-app/assets/68993711/81d56c48-b441-4e61-bd82-8ba9f821443d
+
+
 
